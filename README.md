@@ -25,7 +25,7 @@ In order to build and use the samples you will need:
 How can I contribute?
 ------------------- 
 
-We encourage you to submit pull requests with bug fixes, enhancements as well as brand new samples to showcase how to include Kinect capabilities in Windows and Windows Phone apps.
+We encourage you to submit pull requests with bug fixes, enhancements as well as brand new samples to showcase how to include Kinect capabilities in Windows Desktop and Windows Store apps.
 
 The process to get them approved is super simple! Our reviewers go over new submissions on a weekly basis. If you are a new contributor, before we publish your code you will just have to fill in our [Contribution Agreement](https://cla.msopentech.com/) form. That's it! 
 
