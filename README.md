@@ -1,6 +1,6 @@
 Kinect for Windows Samples
 ==========================
-.
+
 
 What is this?
 -------------
